@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "name": "Marat",
+      "email": "developer_js@mail.ru",
+      "password": "006+++marat***",
+      "passwordToo": "006+++marat***",
+      "Username": "developer_js",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

@@ -1,0 +1,223 @@
+
+.Slider
+{
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+  width: 1000px;
+  height: 600px;
+  background: none;
+  /* height: 100vh; */
+}
+
+
+/* .Slider__contaienr
+{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
+
+
+.slick-slide
+{
+}
+
+.slick-current
+{
+}
+
+.slick-slider 
+{
+}
+
+.slick-initialized
+{
+
+}
+.slick-slider{
+}
+/* Слайдер запущен */
+.slick-slider.slick-initialized{
+}
+/* Слайдер с точками */
+.slick-slider.slick-dotted{
+}
+/* Ограничивающая оболочка */
+.slick-list {
+}
+/* Лента слайдов */
+.slick-track{
+
+}
+/* Слайд */
+.slick-slide{
+}
+/* Слайд активный (показывается) */
+.slick-slide.slick-active{
+}
+/* Слайд основной */
+.slick-slide.slick-current{
+}
+/* Слайд по центру */
+.slick-slide.slick-center{
+
+}
+/* Клонированный слайд */
+.slick-slide.slick-cloned{
+
+}
+/* Стрелка */
+.slick-arrow{}
+/* Стрелка влево */
+.slick-arrow.slick-prev{}
+/* Стрелка вправо */
+.slick-arrow.slick-next{}
+/* Стрелка не активная */
+.slick-arrow.slick-disabled{}
+/* Точки (булиты) */
+.slick-dots{}
+.slick-dots li{}
+/* Активная точка */
+.slick-dots li.slick-active{}
+/* Элемент точки */
+.slick-dots li button{}
+
+
+
+.Slider
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+
+
+.Slider__blocks
+{
+  margin-top: 33px;
+  display: flex;
+  justify-content: space-around;
+}
+
+
+
+.Slider__img
+{
+  width: 241.26px;
+  height: 487.83px;
+  background-image: url(image/iPhone\ 12\ Pro\ \(1\).svg);
+  background-repeat: no-repeat;
+}
+
+.Slider__block-one
+{ 
+  margin-top: 32px;
+  height: 20px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+
+.Slider__block-one h3 
+{
+  height: 1px;
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 140%;
+
+  color: #FFFFFF;
+}
+
+.Slider__block-one p 
+{
+  width: 288px;
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 140%;
+
+  color: #676666;
+}
+
+.Slider__block-too
+{
+    position: relative;
+}
+
+.Slider__img
+{
+    position: absolute;
+}
+
+
+.Slider__block-three
+{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 598px;
+  height: 433px;
+
+  background: linear-gradient(90deg, rgba(48, 48, 48, 0.15) 0%, rgba(128, 128, 128, 0.15) 100%);
+  border-radius: 10px;
+}
+
+.Slider__block-three-flex
+{
+    margin-top: 32px;
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.Slider__block-three h3 
+{
+  width: 290px;
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 140%;
+
+  color: #FFFFFF;
+}
+
+.Slider__block-three-text
+{
+  margin-top: 4px;
+  display: flex;
+  width: 300px;
+  height: 40px;
+}
+.Slider__block-three-text div:nth-child(1) 
+{ 
+  width: 8px;
+  height: 8px;
+
+  border-radius: 50%;
+  background: #5F4BD9;
+}
+
+.Slider__block-three-text div:nth-child(2) 
+{
+  position: relative;
+  top: -5px;
+  left: 8px;
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 140%;
+
+  color: #FFFFFF;
+}

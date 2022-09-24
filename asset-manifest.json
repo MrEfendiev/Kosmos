@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kosmos/static/css/main.e3212de3.css",
-    "main.js": "/kosmos/static/js/main.d7312903.js",
+    "main.js": "/kosmos/static/js/main.c08e249b.js",
     "static/js/787.14de7c37.chunk.js": "/kosmos/static/js/787.14de7c37.chunk.js",
     "static/media/Metaverse Connect.svg": "/kosmos/static/media/Metaverse Connect.be4995418ca0745256f9.svg",
     "static/media/image 6.svg": "/kosmos/static/media/image 6.2330193a5b7de01862fa.svg",
@@ -48,11 +48,11 @@
     "static/media/arrow-right.svg": "/kosmos/static/media/arrow-right.c1cade1eccd6e85a3cef.svg",
     "static/media/Arrow-down.svg": "/kosmos/static/media/Arrow-down.9b27560c4985776d64b1.svg",
     "main.e3212de3.css.map": "/kosmos/static/css/main.e3212de3.css.map",
-    "main.d7312903.js.map": "/kosmos/static/js/main.d7312903.js.map",
+    "main.c08e249b.js.map": "/kosmos/static/js/main.c08e249b.js.map",
     "787.14de7c37.chunk.js.map": "/kosmos/static/js/787.14de7c37.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e3212de3.css",
-    "static/js/main.d7312903.js"
+    "static/js/main.c08e249b.js"
   ]
 }
